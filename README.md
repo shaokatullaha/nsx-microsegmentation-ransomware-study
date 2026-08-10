@@ -1,5 +1,8 @@
 # Evaluating the Effectiveness of VMware NSX Micro-Segmentation for Ransomware Containment in Software-Defined Data Center
 
+## Table of Contents
+
+- [Overview](#overview)
 ## Overview
 
 Ransomware remains one of the most disruptive threats to enterprise infrastructure, and Software Defined Data Centre (SDDC) environments are particularly exposed: interconnected virtual workloads create broad east-west network paths that allow ransomware to move laterally between systems once an initial foothold is gained.
