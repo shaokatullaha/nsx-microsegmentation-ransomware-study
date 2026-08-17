@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Research Question](#Research-Question)
+- [Architecture](#Architecture)
 
 ## Overview
 
@@ -23,3 +24,5 @@ Ransomware continues to cause major disruption to enterprise infrastructure, and
 **This project addresses the question:**
 
 *To what extent does VMware NSX micro-segmentation reduce ransomware propagation blast radius and Mean Time to Contain (MTTC) in a Software-Defined Data Center (SDDC) environment when compared to a flat, unsegmented network architecture?*
+
+## Architecture
