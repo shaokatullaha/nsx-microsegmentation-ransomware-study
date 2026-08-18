@@ -30,3 +30,5 @@ Ransomware continues to cause major disruption to enterprise infrastructure, and
 <p align="center">
   <img src="snap/Architecture.jpg" width="800">
 </p>
+
+*The Image generate by using AI*
